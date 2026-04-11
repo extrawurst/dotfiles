@@ -1,0 +1,5 @@
+ohmyzsh/ohmyzsh path:lib/git.zsh
+ohmyzsh/ohmyzsh path:plugins/git
+ohmyzsh/ohmyzsh path:plugins/z
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting
