@@ -9,3 +9,7 @@
 [user]
 	name = rusticorn
 	email = mail@rusticorn.com
+[push]
+	autoSetupRemote = true
+[pull]
+	rebase = true
